@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Technologies to learn",
+    "text": "The human spirit must prevail over technology. - Albert Einstein ",
+    "photo": "./img/img1.jpg"
+  },
+  {
+    "id":2,
+    "title": "Watch and Learn",
+    "text": "The human spirit must prevail over technology. - Albert Einstein.",
+    "photo": "./img/img2.jpg"
+
+  },
+  {
+    "id":3,
+    "title": "Coding is fun",
+    "text": "The human spirit must prevail over technology. - Albert Einstein.",
+    "photo": "./img/img3.jpg"
+  },
+  {
+    "id":3,
+    "title": "Coding is fun",
+    "text": "The human spirit must prevail over technology. - Albert Einstein.",
+    "photo": "./img/img3.jpg"
+  },
+  {
+    "id":3,
+    "title": "Coding is fun",
+    "text": "The human spirit must prevail over technology. - Albert Einstein.",
+    "photo": "./img/img3.jpg"
+  },
+  {
+    "id":3,
+    "title": "Coding is fun",
+    "text": "The human spirit must prevail over technology. - Albert Einstein.",
+    "photo": "./img/img3.jpg"
+  }
+]
